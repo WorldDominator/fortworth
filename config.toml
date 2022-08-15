@@ -40,7 +40,6 @@ relativeUrls = true
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
-    disqusShortname = 'fortworthnews'
 
     [languages.en.params.logo]
       logoText = "Fort Worth Web3 News"

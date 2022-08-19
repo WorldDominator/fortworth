@@ -1,5 +1,5 @@
 +++
-title = "Will Fort Worth Citizens and Businesses Need ENS Domain Name for the Future?"  
+title = "Will Fort Worth Citizens and Businesses Need ENS Domain Names for the Future?"  
 date = "2022-08-09T21:17:38-05:00"
 author = ""
 authorTwitter = "nftsoke" 

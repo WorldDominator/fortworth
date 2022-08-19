@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://www.fortworth.eth.limo"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
